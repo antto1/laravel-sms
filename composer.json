@@ -1,17 +1,16 @@
 {
-    "name": "toplan/laravel-sms",
+    "name": "antto1/laravel-sms",
     "description": "A mobile phone number validation solution based on laravel",
     "license": "MIT",
     "keywords": ["sms", "mobile", "phone", "laravel", "laravel-sms"],
     "authors": [
         {
-            "name": "toplan",
-            "email": "toplan710@gmail.com"
+            "name": "Antto",
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "toplan/phpsms": "~1.8"
+        "antto1/phpsms": "~1.8"
     },
     "autoload": {
         "classmap": [
